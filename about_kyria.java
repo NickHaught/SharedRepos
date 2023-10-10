@@ -1,4 +1,4 @@
-public class Main {
+public class about_kyria {
   public static void main(String[] args) {
     System.out.println("Name: Kyria");
     System.out.println("Major: Computer Science");
