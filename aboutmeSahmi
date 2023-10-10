@@ -1,0 +1,13 @@
+public class MyInformation {
+    public static void main(String[] args) {
+        // Declare and initialize variables with your information
+        String name = "Your Name";
+        String major = "Your Major";
+        String firstJobLocation = "Expected First Job Location";
+
+        // Display the information
+        System.out.println("Name: " + name);
+        System.out.println("Major: " + major);
+        System.out.println("Expected First Job Location: " + firstJobLocation);
+    }
+}
